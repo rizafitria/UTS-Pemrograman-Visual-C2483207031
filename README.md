@@ -40,8 +40,8 @@ Berikut adalah tangkapan layar hasil pengujian aplikasi:
 ![Hasil Hitung](kasirkantin/screenshots/hitungdanbayarnasgor.png)
 
 ### 3. Hasil Perhitungan Total Harga dan bayar mie ayam
-![Hasil Hitung](screenshots/hitungdanbayarmieayam.png)
+![Hasil Hitung](kasirkantin/screenshots/hitungdanbayarmieayam.png)
 
 ### 4. Hasil Perhitungan Total Harga dan bayar es teh
-![Hasil Hitung](screenshots/hitungdanbayaresteh.png)
+![Hasil Hitung](kasirkantin/screenshots/hitungdanbayaresteh.png)
 
