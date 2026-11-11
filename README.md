@@ -3,8 +3,8 @@
 ## Identitas Mahasiswa
 * **Nama Lengkap:** RIZA FITRIA
 * **NIM:** C2483207031
-* **Kelas:** V/PT15[cite: 1]
-* **Mata Kuliah:** Pemrograman Visual[cite: 1]
+* **Kelas:** V/PT15
+* **Mata Kuliah:** Pemrograman Visual
 
 ## Deskripsi Singkat
 Aplikasi desktop sederhana berbasis Java Swing untuk membantu pencatatan transaksi penjualan makanan atau minuman di kantin kampus secara digital, menghitung total harga, memproses pembayaran, menghitung uang kembalian, serta menyediakan validasi input agar terhindar dari kesalahan hitung[cite: 1, 2].
